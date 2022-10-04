@@ -1,0 +1,39 @@
+-inizio
+-pulisci desktop
+Rimuovi i documenti di lavoro aperti
+-SE nonhai salvato i documenti
+    -salva i documenti
+    -chiudi i documenti
+-SE hai salvato i documenti
+    -chiudi i documenti
+-Cerca la pizzera
+-Consulta il listino prezzi
+-Apri il menu
+-Scorro il listino
+-SE non hai deciso il tipo di pizza da ordinare
+    -Continua a sfogliare il listino
+-SE hai deciso la pizza da ordinare
+ -Chiama la pizzeria
+ -Ordina la tua classica prosciutto e funghi
+ -informati sul tempo di arrivo
+ -attendi la consegna
+
+-alzati dalla scrivania
+ -Dirigiti verso la porta di ingresso-
+-Apri il portone
+-Paga il fattorino
+-Ritira la pizza
+-prendi dei tovaglioli
+-Dirigiti sul divano
+-Accendi la televisione
+
+-SE non hai scelto cosa vedere
+    -continua a cambiare programma
+-SE hai scelto cosa vedere
+    -posa il telecomando
+-apri la scatola della pizza
+-mangia la pizza
+-SE non riesci a finirla tutta
+    -posa la parte restante nel frigorifero
+-se sei riuscito a finirla
+    -getta la scatola 
